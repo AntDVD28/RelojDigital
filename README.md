@@ -9,3 +9,7 @@ La práctica consistía en crear un componente de un reloj digital debiendo cump
 - Propiedad 'formato': propiedad booleana mediante la cual podamos podemos cambiar el formato de la hora de 12 a 24H.
 - Propiedad 'alarma': propiedad mediante la cual podamos establecer una hora de la alarma, de manera que si se programa una hora debe generar un evento cuando llegue a esa hora. Es decir, que cuando nuestro reloj llega a la hora de alarma se debe mostrar un mensaje indicándonos que la alarma ha sido activada.
 Llamar al componente ComponenteRelojXXX, donde xxx serán las iniciales del alumn@.
+
+Una vez tipeado el código del componente hay que generarlo dándole en "Limpiar y construir" (Netbeans) y posteriormente agregarlo a la paleta de componentes.
+
+Incluimos un proyecto dónde poder probar el componente
